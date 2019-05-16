@@ -1,4 +1,4 @@
-# Hackintosh EFI
+# Hackintosh EFI for Mac Os High Sierra 10.13.6
 
 ## System Specs
 |Feature|Specification  |
